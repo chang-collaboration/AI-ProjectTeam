@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     let links = [
         {source: 1, target: 2},
-        {source: 3, target: 4},
+        {source: 3, target: 16},
         {source: 5, target: 6},
     ];
 
